@@ -1,1 +1,5 @@
-theme: jekyll-theme-cayman
+title: Deep Learning for Natural Language Processing
+logo: /assets/img/logo.gif
+description: Monday, August 15 (8-11am) & Tuesday, August 16 (8-11am)
+show_downloads: false
+theme: jekyll-theme-minimal

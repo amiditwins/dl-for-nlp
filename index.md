@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+---
+layout: default
+---
 
-You can use the [editor on GitHub](https://github.com/amiditwins/dl-for-nlp/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Workshop Description
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This workshop will introduce common practical use cases where natural language processing (NLP) models are applied using the latest advances in deep learning (e.g. Transformer-based models such as BERT). In this hands-on session, we will be coding in Python and using commonly used libraries such as Keras. The topics that we will cover include:
 
-### Markdown
+- machine translation
+- sentiment extraction
+- named entity recognition
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## About the Instructors
 
-```markdown
-Syntax highlighted code block
+![amidi](/assets/img/profile.jpg){:style="max-width:50%;"}
 
-# Header 1
-## Header 2
-### Header 3
+**Afshine Amidi** is currently working on solving NLP problems at Google. He also teaches the Data Science Tools class to graduate students at MIT. Previously, he worked in applied machine learning for recommender systems at Uber Eats where he focused on building ranking models that improve the quality of the overall search results by taking into account several objective functions. Also, Afshine published a few papers at the intersection of Deep Learning and computational biology. He holds a Bachelor’s and a Master’s Degree from École Centrale Paris and a Master’s Degree from MIT.
 
-- Bulleted
-- List
+**Shervine Amidi** is currently working on problems at the intersection of ranking and natural language processing at Google. Previously, he worked in applied machine learning for recommender systems at Uber Eats where he focused on representation learning to better surface dish recommendations. Also, Shervine published a few papers at the intersection of deep learning and computational biology. He holds a Bachelor’s and a Master’s Degree from École Centrale Paris and a Master’s Degree from Stanford University.
 
-1. Numbered
-2. List
+# Workshop Materials
 
-**Bold** and _Italic_ and `Code` text
+## Pre-workshop Checklist
 
-[Link](url) and ![Image](src)
-```
+Coming soon!
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Schedule
 
-### Jekyll Themes
+#### Session 1: Monday 2022-08-15, 8:00 - 11:00am PST
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/amiditwins/dl-for-nlp/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Transformer architecture
 
-### Support or Contact
+#### Session 2: Tuesday 2022-08-16, 8:00 - 11:00am PST
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+BERT and its applications
+
+## Additional Resources
+
+Coming soon!
