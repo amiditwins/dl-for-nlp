@@ -36,4 +36,4 @@ BERT and its applications
 
 ## Additional Resources
 
-Coming soon!
+- Q&A platform used for the class: [Piazza](https://piazza.com/class/l68jwdir1zc5oj)
