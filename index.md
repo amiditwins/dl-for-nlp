@@ -26,11 +26,11 @@ Coming soon!
 
 ## Schedule
 
-#### Session 1: Monday 2022-08-15, 8:00 - 11:00am PST
+#### Session 1: Monday 2022-08-15, 8:00 - 11:00am PT
 
 Transformer architecture
 
-#### Session 2: Tuesday 2022-08-16, 8:00 - 11:00am PST
+#### Session 2: Tuesday 2022-08-16, 8:00 - 11:00am PT
 
 BERT and its applications
 
