@@ -20,10 +20,6 @@ This workshop will introduce common practical use cases where natural language p
 
 # Workshop Materials
 
-## Pre-workshop Checklist
-
-Coming soon!
-
 ## Schedule
 
 #### Session 1: Monday 2022-08-15, 8:00 - 11:00am PT
@@ -34,6 +30,6 @@ Transformer architecture
 
 BERT and its applications
 
-## Additional Resources
+## Resources
 
 - Q&A platform used for the class: [Piazza](https://piazza.com/class/l68jwdir1zc5oj). Access code: **icmeswnlp**.
