@@ -32,4 +32,5 @@ BERT and its applications
 
 ## Resources
 
+- Zoom link: TBD.
 - Q&A platform used for the class: TBD.
