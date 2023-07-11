@@ -4,11 +4,14 @@ layout: default
 
 # Workshop Description
 
-This workshop will introduce common practical use cases where natural language processing (NLP) models are applied using the latest advances in deep learning (e.g. Transformer-based models such as BERT). In this hands-on session, we will be coding in Python and using commonly used libraries such as Keras. The topics that we will cover include:
+Are you curious about how computers can understand and generate human language? Natural Language Processing (NLP) is a rapidly growing field that makes this possible. From virtual assistants to language translation, NLP is behind some of the most exciting technological breakthroughs of our time.
 
-- machine translation
-- sentiment extraction
-- named entity recognition
+In this workshop, you'll be introduced to the fundamental concepts of NLP and use Python programming to apply these techniques to text data. Join us for a high-content learning experience that includes stimulating lectures, group coding exercises, and even “homework” between the two workshop sessions to strengthen your newfound NLP skills.
+
+Our primary goal is for attendees to develop a critical understanding of the power (and the limitations) of NLP, and to be able to identify opportunities to apply NLP to their own work. Specifically, attendees will:
+- Understand the basic concepts of today’s key tools in NLP, such as tokenization, the concept of attention, transformers and how they are trained.
+- Be able to use NLP tools and libraries, such as Keras and Hugging Face.
+- Get hands-on experience applying NLP to real-world tasks such as text machine translation and sentiment extraction.
 
 ## About the Instructors
 
