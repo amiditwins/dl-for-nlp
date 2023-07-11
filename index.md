@@ -22,11 +22,11 @@ This workshop will introduce common practical use cases where natural language p
 
 ## Schedule
 
-#### Session 1: Monday 2022-08-15, 8:00 - 11:00am PT
+#### Session 1: Monday 2023-08-07, 1:00pm - 4:00pm PT
 
 Transformer architecture
 
-#### Session 2: Tuesday 2022-08-16, 8:00 - 11:00am PT
+#### Session 2: Tuesday 2023-08-08, 1:00pm - 4:00pm PT
 
 BERT and its applications
 
