@@ -27,11 +27,29 @@ Our primary goal is for attendees to develop a critical understanding of the pow
 
 #### Session 1: Monday 2023-08-07, 1:00pm - 4:00pm PT
 
-Transformer architecture
+- Background
+  - NLP tasks overview and benchmarks
+  - Timeline
+  - Word representations: Word2vec, Recurrent Neural Networks, Long Short-Term Memory
+- Transformers
+  - History and overview
+  - Attention mechanism
+  - Step-by-step architecture deep dive
+  - Computational tricks
+  - Hands-on Transformer module with Python's Keras library
 
 #### Session 2: Tuesday 2023-08-08, 1:00pm - 4:00pm PT
 
-BERT and its applications
+- BERT
+  - Tokenization
+  - Overview of changes with respect to the Transformer
+  - Pre-training procedure
+  - Fine-tuning
+  - Hands-on module on sentiment extraction with BERT with Python’s Hugging Face library
+- Conclusion
+  - Latest trends
+  - Final thoughts
+  - How to stay up-to-date with NLP advances
 
 ## Resources
 
