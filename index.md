@@ -54,4 +54,4 @@ Our primary goal is for attendees to develop a critical understanding of the pow
 ## Resources
 
 - Zoom link: TBD.
-- Q&A platform used for the class: TBD.
+- Q&A platform used for the class: [Piazza](https://piazza.com/stanford/summer2023/icmeswnlp). Access code: **icmeswnlp**.
